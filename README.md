@@ -46,14 +46,30 @@ The Joon Dashboard is a web-based platform built using React.js, designed to man
 
 
 ### **Flutter Developer - TMT Solutions**  
-**TPOS - Sales Management App**  
+**TPOS**  
 Powerful and intuitive sales management app designed to offer cross-platform, cost-effective solutions for businesses of all sizes. Whether you're managing a small business or overseeing a large sales operation, TPOS streamlines every aspect of the sales process. The app is built to be user-friendly, making it easy for sellers to manage their inventory, track sales, monitor customer interactions, and generate reports, all from a single platform. With real-time data access, TPOS empowers sellers to make informed decisions, ensuring efficient business operations and maximizing profitability. 
-**Technologies**: Bloc, Freezed, Dio, Socket.IO, Firebase, Notifications, AutoRoute  
+**Technologies**: Bloc, Freezed, Dio, Socket.IO, Firebase, Notifications.  
 - [Google Play Store](https://play.google.com/store/apps/details?id=vn.tpos.tposmobile&hl=en)  
 - [App Store](https://apps.apple.com/jp/app/tpos-qu%E1%BA%A3n-l%C3%BD-b%C3%A1n-h%C3%A0ng/id1470902368?l=en-US)
 
----
+**TDental**  
+The software provides comprehensive management solutions for dental clinics, including appointment scheduling, management, and reminders for customers. It supports multi-branch management, enabling efficient oversight of multiple locations. The software also manages patient medical records, allowing for easy access to medical history and informed treatment decisions. Additionally, it offers essential reporting features, giving clinic owners clear insights into the business performance of their operations. 
+**Technologies**: Bloc, Freezed, Dio, Socket.IO, Firebase, Notifications.  
+- [Google Play Store](https://shorturl.at/K21RJ)  
+- [App Store](https://shorturl.at/htWEr)
 
+
+**TShop**  
+Project for customer tracking their order buy in online sellers using TPos. In this project, I have responsibility to create project structure. Project use WebRTC for video call using and  chat for chat with shop owner. Project is under developing.
+**Technologies**: Bloc, Freezed, Dio, Socket.IO, Firebase, Notifications.  
+
+**TPosLive**  
+Live stream application for sale in facebook and youtube. Project using RTMP to connect live stream for facebook and youtube. RTMP library use native code Kotlin in android and Swift in Ios.
+**Technologies**: 
+- Flutter: Bloc, GetX, RMTP
+- Android: Dagger Hilt, Retrofit
+
+---
 ## 💻 Other Notable Projects
 
 - **OpenCV Camera Plugin**  
@@ -75,7 +91,6 @@ I enjoy spending my free time reading tech blogs, particularly on **Medium**, an
 I aim to continue developing high-impact mobile applications. I am driven by a desire to create efficient and innovative solutions to complex technical challenges. I thrive in collaborative environments where I can both contribute and learn.
 
 ---
-
 ## 🔗 Find me on:
 - **LinkedIn**: [Chau Van Sang](https://www.linkedin.com/in/sang-ch%C3%A2u-v%C4%83n-3537421a2/)
 - **GitHub**: [Chau Van Sang](https://github.com/chauvansang1997)
