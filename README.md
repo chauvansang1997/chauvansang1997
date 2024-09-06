@@ -34,7 +34,7 @@ Welcome to my GitHub! I am a passionate mobile developer with over 6 years of ex
 
 ### **Senior Flutter Developer - Daebak Media LLC**  
 **Joon - Muslim Marriage App**  
-Empowering meaningful connections for Muslim matchmaking.  
+Joon is a platform designed to empower meaningful connections for Muslim matchmaking, with a strong focus on marriage rather than casual dating. The app is built to respect and uphold Islamic principles, providing a safe and inclusive space for individuals looking to find their life partners. With a user-centric approach, Joon fosters serious relationships by offering curated matches, in-depth profiles, and privacy-focused features that align with the cultural and religious values of the Muslim community.  
 **Technologies**: Bloc, Dio, BranchIO, Firebase, Google Maps, MapBox, Sentry, WebSocket  
 - [Google Play Store](https://play.google.com/store/apps/details?id=io.joon.app)  
 - [App Store](https://apps.apple.com/us/app/joon-muslim-marriage/id6444161036)
@@ -47,7 +47,7 @@ The Joon Dashboard is a web-based platform built using React.js, designed to man
 
 ### **Flutter Developer - TMT Solutions**  
 **TPOS - Sales Management App**  
-TPOS provides easy-to-use, cross-platform, and cost-effective sales management solutions for sellers.  
+Powerful and intuitive sales management app designed to offer cross-platform, cost-effective solutions for businesses of all sizes. Whether you're managing a small business or overseeing a large sales operation, TPOS streamlines every aspect of the sales process. The app is built to be user-friendly, making it easy for sellers to manage their inventory, track sales, monitor customer interactions, and generate reports, all from a single platform. With real-time data access, TPOS empowers sellers to make informed decisions, ensuring efficient business operations and maximizing profitability. 
 **Technologies**: Bloc, Freezed, Dio, Socket.IO, Firebase, Notifications, AutoRoute  
 - [Google Play Store](https://play.google.com/store/apps/details?id=vn.tpos.tposmobile&hl=en)  
 - [App Store](https://apps.apple.com/jp/app/tpos-qu%E1%BA%A3n-l%C3%BD-b%C3%A1n-h%C3%A0ng/id1470902368?l=en-US)
