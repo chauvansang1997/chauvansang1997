@@ -39,26 +39,18 @@ Empowering meaningful connections for Muslim matchmaking.
 - [Google Play Store](https://play.google.com/store/apps/details?id=io.joon.app)  
 - [App Store](https://apps.apple.com/us/app/joon-muslim-marriage/id6444161036)
 
+**Joon DashBoard**  
+The Joon Dashboard is a web-based platform built using React.js, designed to manage users and monitor interactions within the Joon Muslim Marriage App. This responsive and intuitive dashboard ensures administrators can efficiently oversee user activities, moderate content, and maintain smooth operations across the app. The dashboard provides the necessary tools to ensure that matchmaking and interactions remain aligned with community guidelines and goals.
+
+**Technologies**: ReactJS, Firebase
+
+
 ### **Flutter Developer - TMT Solutions**  
 **TPOS - Sales Management App**  
 TPOS provides easy-to-use, cross-platform, and cost-effective sales management solutions for sellers.  
 **Technologies**: Bloc, Freezed, Dio, Socket.IO, Firebase, Notifications, AutoRoute  
 - [Google Play Store](https://play.google.com/store/apps/details?id=vn.tpos.tposmobile&hl=en)  
 - [App Store](https://apps.apple.com/jp/app/tpos-qu%E1%BA%A3n-l%C3%BD-b%C3%A1n-h%C3%A0ng/id1470902368?l=en-US)
-
----
-
-## 🏆 Freelance Projects
-
-- **Bluetooth Sensor Scanner**  
-  Scans Bluetooth devices and manages them through a server.  
-  **Technologies**: Riverpod, Dio, Freezed, Firebase  
-  *(Private project)*
-
-- **BlueSnap SDK**  
-  A payment gateway SDK that integrates credit cards, Google Pay, and PayPal processing for Android apps.  
-  **Technologies**: Cardinal SDK for Android & iOS, Flutter  
-  - [GitHub](https://github.com/bluesnap)
 
 ---
 
