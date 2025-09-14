@@ -14,7 +14,7 @@ Welcome to my GitHub! I am a passionate mobile developer with over 6 years of ex
 
 ## 🛠 Technical Skills
 
-- **Languages**: Dart (Flutter), Kotlin, Java, Python, C#, ReactJS, C++
+- **Languages**: Dart (Flutter), Kotlin, Java, Python, C# (Unity), ReactJS, C++
 - **Databases**: GraphQL, MongoDB, SQL Server, MySQL, PostgreSQL, Firebase Database
 - **Version Control**: Git (GitHub, GitLab, Bitbucket, Azure)
 - **CI/CD**: Fastlane, GitHub Actions, Bitrise, Azure DevOps, GitLab CI, Bash Scripts
