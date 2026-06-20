@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chau Van Sang
 
-### 🚀 Senior Flutter Developer | Mobile App Enthusiast | Problem Solver
+### 🚀 Senior Mobile Developer | Mobile App Enthusiast | Problem Solver
 
 Welcome to my GitHub! I am a passionate developer with over 6 years of experience specializing in **Mobile and Game**. I love solving complex problems, acquiring new technologies, and working collaboratively within teams. Here you'll find a range of projects I’ve worked on, from mobile apps to plugins and SDK integrations.
 
